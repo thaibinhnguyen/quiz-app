@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react'
+import { useReducer } from 'react'
 import { initialState, quizReducer } from './state/quizReducer'
 import StartScreen from './components/StartScreen'
 import QuestionCard from './components/QuestionCard'
