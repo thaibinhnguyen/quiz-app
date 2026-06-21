@@ -1,7 +1,7 @@
 # The Polyglot Quiz
 
 A timed multiple-choice quiz built with React, TypeScript, and `useReducer`. Five questions, 60 seconds each — answer or lose a point.
-Project based on [Quiz App](https://roadmap.sh/projects/quiz-app) from [Roadmap Ideas Frontend Projects][(https://roadmap.sh/frontend/projects)
+Project based on [Quiz App](https://roadmap.sh/projects/quiz-app) from [Roadmap Ideas Frontend Projects](https://roadmap.sh/frontend/projects)
 
 **[Live demo →](https://thaibinhnguyen.github.io/quiz-app/)**
 
